@@ -1,0 +1,5 @@
+Titre: Accès à distance et VPN (fictif)
+Accès: public
+Source : document fictif créé pour la démonstration (aucune donnée réelle).
+
+L'accès à distance aux applications de l'établissement passe obligatoirement par le VPN. La demande d'accès VPN est validée par le cadre et par le service informatique. Les données de patients ne sont jamais copiées sur un ordinateur personnel.

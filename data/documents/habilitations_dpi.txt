@@ -1,0 +1,5 @@
+Titre: Habilitations au dossier patient informatisé (fictif)
+Accès: public
+Source : document fictif créé pour la démonstration (aucune donnée réelle).
+
+Toute demande d'accès au dossier patient informatisé (DPI) se fait avec le formulaire de demande d'habilitation. Le cadre du service valide la demande. L'accès est accordé selon le profil : médecin, infirmier ou secrétaire médicale. Chaque consultation d'un dossier est journalisée. Les habilitations sont revues une fois par an. Un accès inutilisé pendant 90 jours est suspendu.

@@ -1,0 +1,5 @@
+Titre: Support informatique aux utilisateurs (fictif)
+Accès: public
+Source : document fictif créé pour la démonstration (aucune donnée réelle).
+
+Le support informatique est joignable du lundi au vendredi de 8 h à 18 h. Les demandes se font par ticket sur le portail interne. Une panne bloquante est traitée en priorité 1, avec une prise en charge sous 2 heures.

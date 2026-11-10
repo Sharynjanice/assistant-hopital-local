@@ -1,0 +1,5 @@
+Titre: Extrait du registre des traitements (fictif)
+Accès: restreint
+Source : document fictif créé pour la démonstration (aucune donnée réelle).
+
+Traitement : suivi des demandes de stage. Finalité : gérer les candidatures reçues. Durée de conservation : 2 ans. Responsable du traitement : direction des ressources humaines.

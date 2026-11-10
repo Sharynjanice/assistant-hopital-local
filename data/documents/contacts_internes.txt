@@ -1,0 +1,5 @@
+Titre: Annuaire interne (fictif)
+Accès: restreint
+Source : document fictif créé pour la démonstration (aucune donnée réelle).
+
+Responsable de la sécurité des systèmes d'information : Mme Claire Fontaine, poste 4510. Chef du service informatique : M. Paul Lambert, poste 4501.

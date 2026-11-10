@@ -1,0 +1,5 @@
+Titre: Procédure en cas d'incident de sécurité (fictive)
+Accès: public
+Source : document fictif créé pour la démonstration (aucune donnée réelle).
+
+En cas de suspicion d'incident (message suspect, poste infecté), ne pas éteindre le poste et le débrancher du réseau, puis appeler le service informatique au poste 4500. Noter l'heure et la description de ce qui s'est passé. Le responsable de la sécurité des systèmes d'information décide des actions suivantes.

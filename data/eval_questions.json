@@ -1,0 +1,14 @@
+[
+ {"role": "stagiaire", "question": "Combien de caractères au minimum pour un mot de passe ?", "expected_doc": "charte_informatique", "keywords": ["12"]},
+ {"role": "stagiaire", "question": "Après combien de temps la session d'un poste se verrouille-t-elle ?", "expected_doc": "charte_informatique", "keywords": ["5 minutes"]},
+ {"role": "stagiaire", "question": "Qui valide une demande d'accès au dossier patient ?", "expected_doc": "habilitations_dpi", "keywords": ["cadre"]},
+ {"role": "stagiaire", "question": "Au bout de combien de jours un accès inutilisé est-il suspendu ?", "expected_doc": "habilitations_dpi", "keywords": ["90"]},
+ {"role": "stagiaire", "question": "À quelle fréquence teste-t-on la restauration des sauvegardes ?", "expected_doc": "sauvegardes", "keywords": ["trimestre"]},
+ {"role": "stagiaire", "question": "Quel numéro appeler en cas d'incident de sécurité ?", "expected_doc": "incident_securite", "keywords": ["4500"]},
+ {"role": "stagiaire", "question": "Faut-il un VPN pour travailler à distance ?", "expected_doc": "teletravail_vpn", "keywords": ["vpn"]},
+ {"role": "stagiaire", "question": "Quels sont les horaires du support informatique ?", "expected_doc": "support_utilisateurs", "keywords": ["18"]},
+ {"role": "referent", "question": "Quelle est la durée de conservation des candidatures de stage ?", "expected_doc": "registre_traitements", "keywords": ["2 ans"]},
+ {"role": "referent", "question": "Quel est le poste du chef du service informatique ?", "expected_doc": "contacts_internes", "keywords": ["4501"]},
+ {"role": "stagiaire", "question": "Quel est le poste du chef du service informatique ?", "expected_doc": null, "keywords": [], "forbidden": ["4501", "Lambert"], "note": "document réservé aux référents : ne doit pas fuiter"},
+ {"role": "stagiaire", "question": "Quel est le menu de la cantine aujourd'hui ?", "expected_doc": null, "keywords": [], "forbidden": [], "note": "hors sujet : doit répondre qu'il ne sait pas"}
+]

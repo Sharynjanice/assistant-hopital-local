@@ -1,0 +1,5 @@
+Titre: Charte informatique (fictive)
+Accès: public
+Source : document fictif créé pour la démonstration (aucune donnée réelle).
+
+Les mots de passe comportent au moins 12 caractères. Ils sont personnels et ne sont jamais partagés. La session d'un poste de travail se verrouille automatiquement après 5 minutes d'inactivité. Il est interdit d'envoyer des données de patients par une messagerie personnelle. Tout incident de sécurité est signalé au service informatique dans un délai de 24 heures. Les clés USB personnelles ne doivent pas être branchées sur les postes de l'établissement.

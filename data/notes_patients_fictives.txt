@@ -1,0 +1,10 @@
+Compte rendu fictif n°1
+Patient : M. Henri Moreau, né le 14/03/1957, NIR 1 57 03 75 116 042 31, tél. 06 12 34 56 78.
+Vu en consultation de suivi le 02/10/2026 par le Dr Lefèvre. Situation stable, rendez-vous de contrôle à prévoir.
+
+Compte rendu fictif n°2
+Patiente : Mme Sophie Garnier, née le 22/11/1984, e-mail sophie.garnier@exemple.fr.
+Hospitalisée le 05/10/2026, sortie le 08/10/2026. Courrier envoyé à Mme Garnier et au Dr Lefèvre.
+
+Compte rendu fictif n°3
+Patient : M. Henri Moreau. Contrôle réalisé le 20/10/2026, tél. 06 12 34 56 78. Pas d'élément nouveau.
